@@ -9,7 +9,7 @@ int main() {
             su = su + k % 10;
             k = k / 10;
         }
-        if (su == 8) {
+        if (su == n) {
             res++;
         }
     }
