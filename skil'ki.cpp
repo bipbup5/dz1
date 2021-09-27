@@ -17,7 +17,7 @@ int main() {
         std::cout<<res<<std::endl;
     }
     else{
-        print('impossible')
+        std::cout<<"impossible"<<std::endl;
     }
     return 0;
 }
